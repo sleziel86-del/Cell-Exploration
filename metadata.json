@@ -1,0 +1,6 @@
+{
+  "name": "Cell Explorers - Primary 5 Science",
+  "description": "Interactive cell revision app for Primary 5 students to explore plant and animal cell parts, play match-up games, test knowledge, and track progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
